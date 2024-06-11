@@ -3,18 +3,18 @@
   The application uses a Logistic Regression model trained on a dataset of tweets to classify input text as either "Hate Speech" or "Not Hate Speech".
 
 2)Table of Contents:
-  a)Overview
-  b)Features
-  c)Installation
-  d)Usage
-  e)How It Works
-  f)Dataset
-  g)Model Training
-  h)GUI Implementation
+a)Overview
+b)Features
+c)Installation
+d)Usage
+e)How It Works
+f)Dataset
+g)Model Training
+h)GUI Implementation
 
 3)Overview:
-  The Hate Speech Analyzer allows users to input a text message and determine whether it is hate speech or not.
-  It utilizes a pre-trained Logistic Regression model for the classification task. The user interface is implemented using tkinter,a standard Python interface to the Tk GUI     toolkit.
+The Hate Speech Analyzer allows users to input a text message and determine whether it is hate speech or not.
+It utilizes a pre-trained Logistic Regression model for the classification task. The user interface is implemented using tkinter,a standard Python interface to the Tk GUI     toolkit.
 
 4)Features:
   Text Classification: Classifies text as either "Hate Speech" or "Not Hate Speech".
