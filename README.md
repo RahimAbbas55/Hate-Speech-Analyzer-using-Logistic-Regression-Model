@@ -27,7 +27,7 @@ It utilizes a pre-trained Logistic Regression model for the classification task.
 
 # Features:
 
-### Text Classification: Classifies text as either "Hate Speech" or "Not Hate Speech".
+## Text Classification: Classifies text as either "Hate Speech" or "Not Hate Speech".
 ### Graphical User Interface: Easy-to-use GUI for text input and result display.
 ### Model Training and Testing: Includes steps for training the model and testing its accuracy.
 
