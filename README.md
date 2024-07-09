@@ -129,5 +129,6 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
   
   <img width="729" alt="Screenshot 2024-06-12 at 1 06 36 AM" src="https://github.com/RahimAbbas55/Hate-Speech-Analyzer-using-Logistic-Regression-Model/assets/101935846/28896af4-3512-475d-bf25-384e65b769bc">
 
-  ->Model Accuracy and Classification Report:
-    <img width="491" alt="Screenshot 2024-06-12 at 1 08 10 AM" src="https://github.com/RahimAbbas55/Hate-Speech-Analyzer-using-Logistic-Regression-Model/assets/101935846/c63eaf0c-e282-49c3-a6d3-921fe23b315d">
+  #### ->Model Accuracy and Classification Report:
+  
+  <img width="491" alt="Screenshot 2024-06-12 at 1 08 10 AM" src="https://github.com/RahimAbbas55/Hate-Speech-Analyzer-using-Logistic-Regression-Model/assets/101935846/c63eaf0c-e282-49c3-a6d3-921fe23b315d">
