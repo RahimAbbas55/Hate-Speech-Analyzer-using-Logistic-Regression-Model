@@ -1,27 +1,38 @@
-1)Hate Speech Analyzer:
-  This project is a simple Hate Speech Analyzer built using Python, tkinter for the GUI, and scikit-learn for text classification. 
-  The application uses a Logistic Regression model trained on a dataset of tweets to classify input text as either "Hate Speech" or "Not Hate Speech".
+# Hate Speech Analyzer:
+This project is a simple Hate Speech Analyzer built using Python, tkinter for the GUI, and scikit-learn for text classification. 
+The application uses a Logistic Regression model trained on a dataset of tweets to classify input text as either "Hate Speech" or "Not Hate Speech".
 
-2)Table of Contents:
+# Table of Contents:
+
 a)Overview
+
 b)Features
+
 c)Installation
+
 d)Usage
+
 e)How It Works
+
 f)Dataset
+
 g)Model Training
+
 h)GUI Implementation
 
-3)Overview:
+# Overview:
+
 The Hate Speech Analyzer allows users to input a text message and determine whether it is hate speech or not.
 It utilizes a pre-trained Logistic Regression model for the classification task. The user interface is implemented using tkinter,a standard Python interface to the Tk GUI     toolkit.
 
-4)Features:
-  Text Classification: Classifies text as either "Hate Speech" or "Not Hate Speech".
-  Graphical User Interface: Easy-to-use GUI for text input and result display.
-  Model Training and Testing: Includes steps for training the model and testing its accuracy.
+# Features:
 
-5)Installation:
+### Text Classification: Classifies text as either "Hate Speech" or "Not Hate Speech".
+### Graphical User Interface: Easy-to-use GUI for text input and result display.
+### Model Training and Testing: Includes steps for training the model and testing its accuracy.
+
+# Installation:
+
   To set up and run this project, follow the steps below:
 
 6)Prerequisites:
@@ -84,8 +95,3 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
   ->Model Accuracy and Classification Report:
     <img width="491" alt="Screenshot 2024-06-12 at 1 08 10 AM" src="https://github.com/RahimAbbas55/Hate-Speech-Analyzer-using-Logistic-Regression-Model/assets/101935846/c63eaf0c-e282-49c3-a6d3-921fe23b315d">
-
-
-
-
-
