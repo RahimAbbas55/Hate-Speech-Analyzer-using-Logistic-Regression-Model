@@ -35,15 +35,24 @@ It utilizes a pre-trained Logistic Regression model for the classification task.
 
   To set up and run this project, follow the steps below:
 
-6)Prerequisites:
-  Ensure you have the following installed on your machine:
+# Prerequisites:
+
+Ensure you have the following installed on your machine:
+
     a)Python 3.x
+    
     b)pip (Python package installer)
+    
     c)Clone the Repository
+    
     d)Clone this repository to your local machine using the following command:
+    
     e)pandas
+    
     f)scikit-learn
+    
     g)tkinter
+    
     Note: tkinter is included in the standard Python library, so you might not need to install it separately.
 
 7)Prepare the Dataset:
